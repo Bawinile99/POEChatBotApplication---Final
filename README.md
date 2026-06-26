@@ -510,8 +510,7 @@ Type **"7"** or **"enhanced"** or **"deep chat"** to enter detailed conversation
 This project is created for **Educational Purposes** as part of the POE (Practical Outcome Evaluation) submission.
 
 - **Author**: Bawinile Mahlangu
-- **Course**: [Your Course Name]
-- **Institution**: [Your Institution]
+
 
 ---
 
@@ -532,9 +531,6 @@ This project is created for **Educational Purposes** as part of the POE (Practic
 
 ## 📞 Contact
 
-For questions or support:
-- **GitHub**: [Your GitHub Repository Link]
-- **Student Portal**: [Your Portal Link]
 
 ---
 
